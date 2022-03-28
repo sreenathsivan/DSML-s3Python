@@ -30,4 +30,3 @@ stem=PorterStemmer()
 word="flying"
 print("Lemmatized word:",lem.lemmatize(word,"v"))
 print("Stemmed Word:",stem.stem(word))
-   
